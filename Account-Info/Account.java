@@ -1,7 +1,7 @@
 /*
 Ini adalah Account.java yang merupakan sub class dari Mahasiswa.java.
-Lihat induk classnya (Mahasiswa.java)    : 
-Lihat pemanggilannya (aksesAccount.java) : 
+Lihat induk classnya (Mahasiswa.java)    : https://github.com/agusmakmun/Some-Example-Java/blob/master/Account-Info/Mahasiswa.java
+Lihat pemanggilannya (aksesAccount.java) : https://github.com/agusmakmun/Some-Example-Java/blob/master/Account-Info/aksesAccount.java
 @author Summon Agus (L200130113)
 @blog bloggersmart.net
 */
