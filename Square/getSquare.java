@@ -7,7 +7,7 @@ This script for call class of Square.java
 public class getSquare {
 	//pemanggilan
 	public static void main(String [] args) {
-		SegiEmpat semua = new SegiEmpat();
+		Square semua = new Square();
 		semua.showValue();
 	}
 }
