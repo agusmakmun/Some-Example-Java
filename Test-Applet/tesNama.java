@@ -6,8 +6,8 @@ import java.awt.FontMetrics;
 import java.awt.Graphics;
 
 /**
- *
  * @author agaust
+ * @blog bloggersmart.net - python.web.id
  */
 public class tesNama extends Applet {
     private Object fontMetrics;
