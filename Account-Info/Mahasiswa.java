@@ -1,7 +1,7 @@
 /*
 Ini adalah class Mahasiswa sebagai induk utamanya.
-Lihat sub classnya (Account.java)        : 
-Lihat pemanggilannya (aksesAccount.java) : 
+Lihat sub classnya (Account.java)        : https://github.com/agusmakmun/Some-Example-Java/blob/master/Account-Info/Account.java
+Lihat pemanggilannya (aksesAccount.java) : https://github.com/agusmakmun/Some-Example-Java/blob/master/Account-Info/aksesAccount.java
 @author Summon Agus (L200130113)
 @blog bloggersmart.net
 */
