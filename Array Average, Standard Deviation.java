@@ -24,7 +24,7 @@ public class NewArray {
     }
     private static double deviasi(int[] nilai) {
         double hasil = 0.0;
-        double retara = jumlah(nilai)/ nilai.length;
+        double retara = jumlah(nilai)/ nilai.length; 
         for (int i = 0; i < nilai.length; i++) {
             hasil += Math.pow(nilai[i]-retara,2);
         }
