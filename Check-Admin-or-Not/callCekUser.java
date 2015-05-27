@@ -5,10 +5,10 @@ This class to call CheckUser.java
 */
 public class callCekUser {
 	public static void main(String[] args) {
-		CekUser cek = new CekUser("Admin", "Admin");
+		CheckUser cek = new CheckUser("Admin", "Admin");
 		cek.apakahAdmin();
 		
-		CekUser cek1 = new CekUser("Summon", "Agus", null, null);
+		CheckUser cek1 = new CheckUser("Summon", "Agus", null, null);
 		cek1.apakahAdmin();
 	}
 }
