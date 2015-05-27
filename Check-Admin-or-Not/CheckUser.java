@@ -38,6 +38,6 @@ public class CheckUser {
 
 /*
 * // Result of Output 
-* Salah, Anda Bukan Admin
-* id = Summon; password = Agus; ----> Benar, Selamat Datang Admin
+* Wrong, you not Admin!
+* id = Summon; password = Agus; ----> True, Welcome Admin
 */
