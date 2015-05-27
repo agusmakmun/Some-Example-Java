@@ -1,8 +1,8 @@
 /*
 Ini adalah class aksesAccount.java yang digunakan sebagai ->
 pengakses dari class Mahasiswa.java dan sub class Account.java
-Lihat induk classnya (Mahasiswa.java) : 
-Lihat sub classnya (Account.java)     : 
+Lihat induk classnya (Mahasiswa.java) : https://github.com/agusmakmun/Some-Example-Java/blob/master/Account-Info/Mahasiswa.java
+Lihat sub classnya (Account.java)     : https://github.com/agusmakmun/Some-Example-Java/blob/master/Account-Info/Account.java
 @author Summon Agus (L200130113)
 @blog bloggersmart.net
 */
