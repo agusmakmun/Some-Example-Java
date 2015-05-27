@@ -13,11 +13,11 @@ public class CheckUser {
 	String nama;
 	String admin;
 	
-	public CekUser (String id, String password) {
+	public CheckUser (String id, String password) {
 		this.id = id;
 		this.password = password;
 	}
-	public CekUser (String id, String password, String nama, String admin) {
+	public CheckUser (String id, String password, String nama, String admin) {
 		this.id = id;
 		this.password = password;
 		this.nama = nama;
