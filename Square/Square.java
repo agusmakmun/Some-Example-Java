@@ -4,7 +4,7 @@ Some script for check Square, example long, width, circumference, and other.
 @blog bloggersmart.net - python.web.id
 */
  
-public class SegiEmpat { 
+public class Square { 
   private int panjang = 20; //ganti dengan double untuk melihat perubahannya.
   private int lebar = 10; 
  
