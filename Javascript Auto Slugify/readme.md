@@ -1,5 +1,5 @@
 * **Requirement:** Jquery, eg: https://code.jquery.com/jquery-1.11.0.min.js
-* **Demo:** https://jsfiddle.net/agaust/xht31h97/
+* **Demo:** https://jsfiddle.net/agaust/xht31h97/2/
 
 ```js
 <input type="text" class="title" placeholder="Type anything..">
